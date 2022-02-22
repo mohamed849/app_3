@@ -1,6 +1,9 @@
 import 'package:app_3/screen2.dart';
 import 'package:flutter/material.dart';
 
+
+///========================================================
+///from Amira
 class Screen1 extends StatelessWidget {
 
   void navigatScreen(BuildContext ctx) {
