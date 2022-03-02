@@ -28,6 +28,11 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  form_field_validator: ^1.1.0
+  animated_splash_screen: ^1.2.0
+  carousel_slider: ^4.0.0
+  delayed_display: ^2.0.0
+  flutter_carousel_slider: ^1.0.8
 
 dev_dependencies:
   flutter_test:
@@ -47,7 +52,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/khamis.jpg
+    - assets/images/
      #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
